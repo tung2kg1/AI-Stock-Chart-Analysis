@@ -40,8 +40,8 @@ The core of this project is a **LLaVA-v1.5-7B** model specifically adapted for f
 ```
 
 4.  **Model Weights:**
-    Ensure you have the fine-tuned LoRA weights in the `models/` directory or configured via environment variables.
-    https://drive.google.com/file/d/1FWkcXQezW_zFddQ6Qrg-wDQz7rTL0q2M/view?usp=sharing
+    Ensure you have the fine-tuned LoRA weights in the `llava-stock-analyzer/final/` directory or configured via environment variables.
+    Download: https://drive.google.com/file/d/1FWkcXQezW_zFddQ6Qrg-wDQz7rTL0q2M/view?usp=sharing
 
 ## Usage
 
